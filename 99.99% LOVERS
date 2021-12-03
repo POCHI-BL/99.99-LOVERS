@@ -1,0 +1,41 @@
+{
+  "title": "99.99% LOVERS",
+  "description": "-Te daré 1 billón de wones ahora, y 2 billones de wones después de que des a luz-. ¡¿Me tocó la lotería?! ¿No sería bueno recibir 3 mil millones de wones y luego salir corriendo? Tres veces. Sólo tenemos que dormir juntos tres veces. ...Esa idea cambió completamente mi vida.",
+  "artist": "Nana",
+  "author": "Rash",
+  "cover": "https://xfs-000.animemark.com/pictures/W600/a72/a7236d70f9a276ac7f10f00e62481d50bcaa7e55_1199_848_182790.jpeg?acc=5a3tQRloExAB3OmBnGB9hw&exp=1637006955.jpg",
+  "chapters": {
+    "1": {
+      "title": "Capitulo 1",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/cZmQ9cr/"
+      },
+      "last_updated": "1616368746"
+    },
+    "2": {
+      "title": "Capítulo 2",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/lwejKTo/"
+      },
+      "last_updated": "1616368746"
+   },
+    "3": {
+      "title": "Capítulo 3",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/Su8AszN/"
+      },
+      "last_updated": "1619043765"        
+      },
+          "04": {
+      "title": "Capítulo 04",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/7jUPegU/"
+      },
+      "last_updated": "1619043765"        
+    }    
+  }
+}
